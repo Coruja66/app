@@ -34,4 +34,4 @@ while True:
         # Se não estiver jogando Roblox, limpa o Rich Presence
         RPC.clear()
 
-    time.sleep(15)  # Verifica a cada 15 segundos se o jogo está em execução
+    time.sleep(15)  # Verifica a cada 15 segundos s o jogo está em execução
